@@ -1,0 +1,16 @@
+C:\Users\Aguel\ALGORITMOS\TP01>TP1
+Ingrese un caracter en Binario
+0
+Ingrese una letra
+T
+Ingrese un numero en Enteros (Z)
+987
+Ingrese un numero en reales (R)
+-789.3
+Sus datos son:
+0
+T
+987
+-789.3
+
+C:\Users\Aguel\ALGORITMOS\TP01>
