@@ -1,16 +1,19 @@
-C:\Users\Aguel\ALGORITMOS\TP01>TP1
-Ingrese un caracter en Binario
+Operaciones entre los numeros:
+12
+13
+Resultado de la comparacion: (0 = falso y 1 = verdadero)
 0
-Ingrese una letra
-T
-Ingrese un numero en Enteros (Z)
-987
-Ingrese un numero en reales (R)
--789.3
-Sus datos son:
+Suma entre ambos
+25
+Resta entre ambos
+-1
+Producto entre ambos
+156
+Divici¾n entre ambos
 0
-T
-987
--789.3
-
-C:\Users\Aguel\ALGORITMOS\TP01>
+Comparacion entre 2 caracteres:
+a
+b
+Resultado de la comparacion: (0 = Iguales y 1 = Distintos)
+1
+Fin del programa.
